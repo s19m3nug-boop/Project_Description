@@ -22,7 +22,9 @@
 
 ## 📋 项目概述
 
-- **线上地址**：https://nwq1309.shop|  https://admin.nwq1309.shop
+- **线上地址**：https://nwq1309.shop
+
+  ​                   https://admin.nwq1309.shop
 
 测试账号：4@qq.com        测试密码：123456
 
@@ -30,7 +32,40 @@
 
 - **视频演示**：
 
+  - **木犀电商平台核心演示：**（核心！！！）
   
+  [Project1.mp4](https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project1.mp4)
+  
+  <details>
+      <summary>📺 核心功能演示（点击展开）</summary>
+      <video src="https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project1.mp4" width="800" controls></video>
+  </details>
+  
+  
+  
+  - **校园二手交易站**（它这里跟木犀电商平台完全无关，只是为了占个广告位~~~）
+  
+  [Project2.mp4](https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project2.mp4)
+  
+  <details>
+      <summary>📺 核心功能演示（点击展开）</summary>
+      <video src="https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project2.mp4" width="800" controls></video>
+  </details>
+  
+  
+  
+  - **个人博客**（这里也是占个广告位！！！）
+  
+  [Project3.mp4](https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project3.mp4)
+  
+  <details>
+      <summary>📺 核心功能演示（点击展开）</summary>
+      <video src="https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project3.mp4" width="800" controls></video>
+  </details>
+
+​          
+
+
 
 ## 🚀 技术栈
 
