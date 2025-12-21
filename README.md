@@ -38,8 +38,9 @@
   
   <details>
       <summary>📺 核心功能演示（点击展开）</summary>
-      <video src="https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project1.mp4" width="800" controls></video>
+      <video src="https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/videos/Project1.mp4" width="800" controls="controls"></video>
   </details>
+  
   
   
   
@@ -49,8 +50,9 @@
   
   <details>
       <summary>📺 核心功能演示（点击展开）</summary>
-      <video src="https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project2.mp4" width="800" controls></video>
+      <video src="https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/videos/Project2.mp4" width="800" controls="controls"></video>
   </details>
+  
   
   
   
@@ -60,7 +62,7 @@
   
   <details>
       <summary>📺 核心功能演示（点击展开）</summary>
-      <video src="https://github.com/s19m3nug-boop/Project_Description/raw/main/videos/Project3.mp4" width="800" controls></video>
+      <video src="https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/videos/Project3.mp4" width="800" controls="controls"></video>
   </details>
 
 ​          
@@ -121,9 +123,13 @@
 
 
 
-### 
+### 系统拓扑图
 
+> 注：拓扑图源文件为 drawio 格式，可下载编辑；PNG 为可视化版本，方便快速查看。
 
+! [木犀电商平台系统拓扑图](https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/assets/系统拓扑图.png)
+
+拓扑图源文件：[系统拓扑图.drawio](https://raw.githubusercontent.com/s19m3nug-boop/Project_Description/main/assets/系统拓扑图.drawio)
 
 
 
